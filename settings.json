@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "vanillafaz.aternos.me",
+    "port": 27511,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
